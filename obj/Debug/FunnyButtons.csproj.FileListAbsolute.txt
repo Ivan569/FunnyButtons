@@ -1,0 +1,10 @@
+C:\Users\Пользователь\source\repos\FunnyButtons\bin\Debug\FunnyButtons.exe.config
+C:\Users\Пользователь\source\repos\FunnyButtons\bin\Debug\FunnyButtons.exe
+C:\Users\Пользователь\source\repos\FunnyButtons\bin\Debug\FunnyButtons.pdb
+C:\Users\Пользователь\source\repos\FunnyButtons\obj\Debug\FunnyButtons.csprojAssemblyReference.cache
+C:\Users\Пользователь\source\repos\FunnyButtons\obj\Debug\FunnyButtons.Form1.resources
+C:\Users\Пользователь\source\repos\FunnyButtons\obj\Debug\FunnyButtons.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\FunnyButtons\obj\Debug\FunnyButtons.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\FunnyButtons\obj\Debug\FunnyButtons.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\FunnyButtons\obj\Debug\FunnyButtons.exe
+C:\Users\Пользователь\source\repos\FunnyButtons\obj\Debug\FunnyButtons.pdb
